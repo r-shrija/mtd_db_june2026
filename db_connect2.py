@@ -16,6 +16,6 @@ def db_disconnect(connection):
     except:
         print("db disconnection failed") 
 
-connection=db_connect()
-db_disconnect(connection)
+#connection=db_connect()
+#db_disconnect(connection)
     

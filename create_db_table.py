@@ -1,4 +1,4 @@
-import pymysql
+#import pymysql
 import db_connect2 as dbc
 def create_db():
     query="create database if not existsshrija_db"
